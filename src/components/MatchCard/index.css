@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.list-item-container {
+  width: 20vw;
+  height: 40vh;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #0f172a;
+  font-family: 'Bree Serif';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.competing-team-img {
+  height: 80px;
+  width: 80px;
+}
+.competing-team-heading {
+  color: #ffffff;
+  font-size: 10px;
+  text-align: center;
+}
+.competing-team-para {
+  color: #ffffff;
+  font-size: 8px;
+  text-align: center;
+}
+.won-class {
+  color: #18ed66;
+  font-size: 12px;
+}
+.loose-class {
+  color: #e31a1a;
+  font-size: 12px;
+}
